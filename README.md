@@ -12,7 +12,7 @@ Backend - Server
 We can view the table we add from the UI to the above link, Snapshots are attched in Assignment
 
 
-# Run Insstructions
+# Run Instructions
 Frontend - npm start
 Backend - nodemon index
 
